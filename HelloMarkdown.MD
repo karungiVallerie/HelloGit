@@ -1,4 +1,4 @@
-# HelloGit
+# vallerie karungi
 
 ## Education
 
@@ -17,6 +17,7 @@ stuck_out_tongue_winking_eye :stuck_out_tongue_winking_eye: 	stuck_out_tongue_cl
 kissing :kissing: 	kissing_smiling_eyes :kissing_smiling_eyes: 	stuck_out_tongue :stuck_out_tongue:
 sleeping :sleeping: 	worried :worried: 	frowning :frowning:
 anguished :anguished:
+
 ## favourite quote
 
 you don't inspire others by being perfect, you inspire them by how you deal with your imperfections
@@ -24,4 +25,4 @@ you don't inspire others by being perfect, you inspire them by how you deal with
 [My Github]https://github.com/karungiVallerie/HelloGit
 
 
-y
+
